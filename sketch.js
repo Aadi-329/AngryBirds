@@ -61,4 +61,5 @@ function draw(){
 
     bird.display();
     platform.display();
+    text("aaditya",200,200)
 }
